@@ -1,4 +1,4 @@
-
+package com.core.finance;
 
 public class App {
 
